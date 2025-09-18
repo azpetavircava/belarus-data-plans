@@ -61,3 +61,10 @@ layout: default
 
 　　最后聊句心里话：网络连接确实重要，但偶尔放下手机，好好欣赏明斯克教堂的壁画或涅斯维日城堡的落日，或许才是旅行的真谛。希望这份指南能帮你少走弯路，多留回忆。
 　　<<<END_
+
+<!-- crosslink -->
+---
+
+## 相关指南
+
+- [Belarus SIM 卡购买与激活指南](https://faciylike.github.io/belarus-sim-guides)
